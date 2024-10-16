@@ -8,7 +8,5 @@ on:
 jobs:
   auto-release:
     uses: baumrock/RockMigrations/.github/workflows/auto-release.yml@main
-    with:
-      email: "office@baumrock.com"
     secrets:
       token: ${{ secrets.GITHUB_TOKEN }}
