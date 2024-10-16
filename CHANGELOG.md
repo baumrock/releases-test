@@ -1,3 +1,10 @@
+## [0.7.0](https://github.com/baumrock/releases-test/compare/v0.6.0...v0.7.0) (2024-10-16)
+
+
+### Features
+
+* test mail ([1ec6e5c](https://github.com/baumrock/releases-test/commit/1ec6e5ce58077d4da442ab9dc8669a5ad1a47e3b))
+
 ## [0.6.0](https://github.com/baumrock/releases-test/compare/v0.5.0...v0.6.0) (2024-10-16)
 
 
@@ -27,11 +34,4 @@
 ### Bug Fixes
 
 * remove line ([85efaa9](https://github.com/baumrock/releases-test/commit/85efaa9267d624774d188ee2a963eb9de78e0fea))
-
-## [0.3.0](https://github.com/baumrock/releases-test/compare/v0.2.0...v0.3.0) (2024-10-16)
-
-
-### Features
-
-* add line ([1afeefc](https://github.com/baumrock/releases-test/commit/1afeefcaf25e6e49a515243c48c2cdb0cd6d3558))
 
