@@ -1,3 +1,12 @@
+## [0.4.0](https://github.com/baumrock/releases-test/compare/v0.3.1...v0.4.0) (2024-10-16)
+
+
+### Features
+
+* add line ([496f177](https://github.com/baumrock/releases-test/commit/496f177ce8993227990c0c0ea185677ab8edd340))
+* another push without email ([06e8e0a](https://github.com/baumrock/releases-test/commit/06e8e0adaaf40684b84f054c5ef1349628ac8168))
+* push without mail? ([14f2d4b](https://github.com/baumrock/releases-test/commit/14f2d4b87fa2c3e3c86276c9148b78a61e77a4b4))
+
 ## [0.3.1](https://github.com/baumrock/releases-test/compare/v0.3.0...v0.3.1) (2024-10-16)
 
 
@@ -25,12 +34,4 @@
 ### Bug Fixes
 
 * new releases action version ([b332357](https://github.com/baumrock/releases-test/commit/b332357ff5f0409f4e12a6bda23cb76e10325bc1))
-
-## [0.1.0](https://github.com/baumrock/releases-test/compare/3725e6be545a70e6321b22d0e14960fd1ffc3448...v0.1.0) (2024-10-16)
-
-
-### Features
-
-* add readme ([16384b0](https://github.com/baumrock/releases-test/commit/16384b0354b707705bb27c0e514683fb34a1dcbd))
-* test new action ([3725e6b](https://github.com/baumrock/releases-test/commit/3725e6be545a70e6321b22d0e14960fd1ffc3448))
 
