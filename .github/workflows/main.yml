@@ -7,6 +7,6 @@ on:
 
 jobs:
   auto-release:
-    uses: baumrock/RockMigrations/.github/workflows/auto-release.yml@main
+    uses: baumrock/RockMigrations/.github/workflows/auto-release.yml@dev
     secrets:
       token: ${{ secrets.GITHUB_TOKEN }}
