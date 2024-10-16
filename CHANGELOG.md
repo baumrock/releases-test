@@ -1,3 +1,10 @@
+## [0.3.0](https://github.com/baumrock/releases-test/compare/v0.2.0...v0.3.0) (2024-10-16)
+
+
+### Features
+
+* add line ([1afeefc](https://github.com/baumrock/releases-test/commit/1afeefcaf25e6e49a515243c48c2cdb0cd6d3558))
+
 ## [0.2.0](https://github.com/baumrock/releases-test/compare/v0.1.1...v0.2.0) (2024-10-16)
 
 
