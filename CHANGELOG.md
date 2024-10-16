@@ -1,3 +1,10 @@
+## [0.2.0](https://github.com/baumrock/releases-test/compare/v0.1.1...v0.2.0) (2024-10-16)
+
+
+### Features
+
+* test auto-release ([44200a8](https://github.com/baumrock/releases-test/commit/44200a8a8f687d946ebf209d1dba841a3e3066a4))
+
 ## [0.1.1](https://github.com/baumrock/releases-test/compare/v0.1.0...v0.1.1) (2024-10-16)
 
 
