@@ -1,3 +1,10 @@
+## [0.3.1](https://github.com/baumrock/releases-test/compare/v0.3.0...v0.3.1) (2024-10-16)
+
+
+### Bug Fixes
+
+* remove line ([85efaa9](https://github.com/baumrock/releases-test/commit/85efaa9267d624774d188ee2a963eb9de78e0fea))
+
 ## [0.3.0](https://github.com/baumrock/releases-test/compare/v0.2.0...v0.3.0) (2024-10-16)
 
 
