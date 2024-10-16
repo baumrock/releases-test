@@ -1,3 +1,10 @@
+## [0.6.0](https://github.com/baumrock/releases-test/compare/v0.5.0...v0.6.0) (2024-10-16)
+
+
+### Features
+
+* new mail address? ([3967367](https://github.com/baumrock/releases-test/commit/39673676d898be4b06f3d0d6cb37b599c6e00ca9))
+
 ## [0.5.0](https://github.com/baumrock/releases-test/compare/v0.4.0...v0.5.0) (2024-10-16)
 
 
@@ -27,11 +34,4 @@
 ### Features
 
 * add line ([1afeefc](https://github.com/baumrock/releases-test/commit/1afeefcaf25e6e49a515243c48c2cdb0cd6d3558))
-
-## [0.2.0](https://github.com/baumrock/releases-test/compare/v0.1.1...v0.2.0) (2024-10-16)
-
-
-### Features
-
-* test auto-release ([44200a8](https://github.com/baumrock/releases-test/commit/44200a8a8f687d946ebf209d1dba841a3e3066a4))
 
