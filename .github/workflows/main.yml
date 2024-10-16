@@ -7,7 +7,7 @@ on:
 
 jobs:
   auto-release:
-    uses: baumrock/RockMigrations/.github/workflows/auto-release.yml@dev
+    uses: baumrock/RockMigrations/.github/workflows/auto-release.yml@main
     with:
       email: "office@baumrock.com"
     secrets:
