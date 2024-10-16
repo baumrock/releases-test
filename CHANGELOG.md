@@ -1,3 +1,10 @@
+## [0.5.0](https://github.com/baumrock/releases-test/compare/v0.4.0...v0.5.0) (2024-10-16)
+
+
+### Features
+
+* use dev workflow ([b274932](https://github.com/baumrock/releases-test/commit/b274932b7c6732a847c8f43b85d0f2d27890b76b))
+
 ## [0.4.0](https://github.com/baumrock/releases-test/compare/v0.3.1...v0.4.0) (2024-10-16)
 
 
@@ -27,11 +34,4 @@
 ### Features
 
 * test auto-release ([44200a8](https://github.com/baumrock/releases-test/commit/44200a8a8f687d946ebf209d1dba841a3e3066a4))
-
-## [0.1.1](https://github.com/baumrock/releases-test/compare/v0.1.0...v0.1.1) (2024-10-16)
-
-
-### Bug Fixes
-
-* new releases action version ([b332357](https://github.com/baumrock/releases-test/commit/b332357ff5f0409f4e12a6bda23cb76e10325bc1))
 
